@@ -19,10 +19,10 @@
     "typescript": "~4.9.5"
   },
   "dependencies": {
-    "@aws-cdk/aws-lambda-python-alpha": "^2.87.0-alpha.0",
+    "@aws-cdk/aws-lambda-python-alpha": "^2.185.0-alpha.0",
     "@aws-prototyping-sdk/pdk-nag": "^0.19.47",
     "aws-cdk": "^2.128.0",
-    "aws-cdk-lib": "^2.128.0",
+    "aws-cdk-lib": "^2.185.0",
     "constructs": "^10.0.0",
     "n": "^9.1.0"
   }
